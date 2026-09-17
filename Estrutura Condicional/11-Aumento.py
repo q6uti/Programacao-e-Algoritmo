@@ -19,3 +19,5 @@ print(f"Salário atual: R$ {salario_atual:.2f}")
 print(f"Percentual de aumento: {percentual * 100:.0f}%")
 print(f"Valor do aumento: R$ {valor_aumento:.2f}")
 print(f"Novo salário: R$ {novo_salario:.2f}")
+
+input("Precione Enter para finalizar o programa...")
