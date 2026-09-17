@@ -14,4 +14,4 @@ if a1 > 18:
 else:
     print("Você é menor de idade.")
 
-input("Precione Enter para finalizar o proramaga...")
+input("Precione Enter para finalizar o programa...")
