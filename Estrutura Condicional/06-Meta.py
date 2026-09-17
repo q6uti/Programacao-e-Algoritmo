@@ -14,3 +14,5 @@ else:
 print(f"Vendedor: {nome_vendedor}")
 print(f"Total vendido: R$ {total_vendido:.2f}")
 print(f"Desempenho: {desempenho}")
+
+input("Precione Enter para finalizar o programa...")
