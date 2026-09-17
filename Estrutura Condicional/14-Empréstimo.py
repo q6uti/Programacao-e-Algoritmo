@@ -10,3 +10,5 @@ if valor_parcela <= limite_parcela:
     print("Empréstimo aprovado")
 else:
     print("Empréstimo não aprovado")
+
+input("Precione Enter para finalizar o programa...")
