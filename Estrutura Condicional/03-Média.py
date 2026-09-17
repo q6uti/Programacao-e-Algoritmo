@@ -16,4 +16,4 @@ else:
 
 print(f"Sua méida atual é {resultado:.2f}")
 
-input("Precione Enter para finalizar o proramaga...")
+input("Precione Enter para finalizar o programa...")
