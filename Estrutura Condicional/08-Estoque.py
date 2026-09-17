@@ -14,3 +14,5 @@ else:
 print(f"Produto: {produto}")
 print(f"Quantidade: {quantidade}")
 print(f"Situação: {situacao}")
+
+input("Precione Enter para finalizar o programa...")
