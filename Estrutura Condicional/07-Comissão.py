@@ -17,3 +17,5 @@ print(f"Vendedor: {nome_vendedor}")
 print(f"Valor vendido: R$ {valor_vendas:.2f}")
 print(f"Percentual de comissão: {percentual * 100:.0f}%")
 print(f"Valor da comissão: R$ {comissao:.2f}")
+
+input("Precione Enter para finalizar o programa...")
