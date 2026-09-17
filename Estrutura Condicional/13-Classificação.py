@@ -14,3 +14,5 @@ else:
 print(f"Cliente: {nome_cliente}")
 print(f"Total comprado: R$ {total_comprado:.2f}")
 print(f"Classificação: {classificacao}")
+
+input("Precione Enter para finalizar o programa...")
