@@ -9,3 +9,5 @@ elif num < 0:
     print("O número é negativo.")
 else:
     print("O número é igual a zero.")
+
+input("Precione Enter para finalizar o programa...")
