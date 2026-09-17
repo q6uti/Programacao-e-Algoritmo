@@ -13,3 +13,5 @@ valor_final = valor_compra + frete
 print(f"Valor da compra: R$ {valor_compra:.2f}")
 print(f"Valor do frete: R$ {frete:.2f}")
 print(f"Valor final do pedido: R$ {valor_final:.2f}")
+
+input("Precione Enter para finalizar o programa...")
