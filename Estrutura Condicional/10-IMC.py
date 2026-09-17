@@ -21,3 +21,5 @@ else:
 
 print(f"IMC calculado: {imc:.2f}")
 print(f"Classificação: {classificacao}")
+
+input("Precione Enter para finalizar o programa...")
