@@ -16,3 +16,5 @@ else:
 valor_final = valor_compra - desconto
 
 print(f"Valor final da compra: R$ {valor_final:.2f}")
+
+input("Precione Enter para finalizar o programa...")
