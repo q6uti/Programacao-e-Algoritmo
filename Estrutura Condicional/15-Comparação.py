@@ -13,3 +13,5 @@ elif valor2 < valor1:
     print(f"{fornecedor2} apresentou o menor preço.")
 else:
     print("As propostas possuem o mesmo valor.")
+
+input("Precione Enter para finalizar o programa...")
