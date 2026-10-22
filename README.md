@@ -16,7 +16,7 @@ Este repositório reúne os códigos produzidos em aula e os exercícios propost
 ├── 📁 Estrutura Condicional/
 │   └── exercícios sobre estruturas condicionais em Python (if, elif, else).
 ├── 📁 Laços de Repetição/
-│   └── atividade sobre estruturas de repetição (while, for, range).
+│   └── atividades sobre estruturas de repetição (while, for, range).
 └── 📁 Funções/
     └── exercícios sobre funções em Python (def, parâmetros, return).
 ```
