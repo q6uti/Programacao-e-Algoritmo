@@ -29,7 +29,9 @@ Este repositório reúne os códigos produzidos em aula e os exercícios propost
 | Nº | Atividade | Descrição | Status |
 |----|-----------|-----------|--------|
 | 01 | *Lógica de Programação* | *Breve descrição* | ✅ Concluída |
-| 02 | *Estrutura Condicional* | *Breve descrição* | 🔄 Em andamento |
+| 02 | *Estrutura Condicional* | *Breve descrição* | ✅ Concluída |
+| 03 | *######### ###########* | *Breve descrição* | 🔄 Em andamento |
+
 
 
 ---
