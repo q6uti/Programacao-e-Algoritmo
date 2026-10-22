@@ -33,7 +33,7 @@ Este repositório reúne os códigos produzidos em aula e os exercícios propost
 |----|-----------|-----------|--------|
 | 01 | *Lógica de Programação* | *Breve descrição* | ✅ Concluída |
 | 02 | *Estrutura Condicional* | *Breve descrição* | ✅ Concluída |
-| 03 | *######### ###########* | *Breve descrição* | 🔄 Em andamento |
+| 03 | *Funções* | *Breve descrição* | 🔄 Em andamento |
 
 
 
