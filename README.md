@@ -23,7 +23,7 @@ Este repositório reúne os códigos produzidos em aula e os exercícios propost
 ## Bibliotecas utilizadas:
 
 - os — usada para limpar o terminal (os.system('cls'))
-- time - usado para dar delay (time.sleep(1))
+- time — usado para dar delay (time.sleep(1))
 
 ## ✅ Atividades
 
