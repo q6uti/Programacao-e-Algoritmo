@@ -15,7 +15,10 @@ Este repositório reúne os códigos produzidos em aula e os exercícios propost
 │   └── atividades práticas de lógica de programação.
 ├── 📁 Estrutura Condicional/
 │   └── exercícios sobre estruturas condicionais em Python (if, elif, else).
-├── 📁 ...
+├── 📁 Laços de Repetição/
+│   └── atividade sobre estruturas de repetição (while, for, range).
+└── 📁 Funções/
+└── exercícios sobre funções em Python (def, parâmetros, return).
 └── README.md
 ```
 > Novas pastas serão adicionadas conforme os assuntos forem abordados em aula (ex: laços de repetição, funções, listas, etc.).
