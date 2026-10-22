@@ -19,7 +19,6 @@ Este repositório reúne os códigos produzidos em aula e os exercícios propost
 │   └── atividade sobre estruturas de repetição (while, for, range).
 └── 📁 Funções/
 └── exercícios sobre funções em Python (def, parâmetros, return).
-└── README.md
 ```
 > Novas pastas serão adicionadas conforme os assuntos forem abordados em aula (ex: laços de repetição, funções, listas, etc.).
 
